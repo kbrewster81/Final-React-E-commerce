@@ -21,7 +21,7 @@ const Nav = () => {
             </a>
           </li>
           <button className="btn__menu">
-            <FontAwesomeIcon icon="bar" />
+            <FontAwesomeIcon icon="bars" />
           </button>
           <li className="nav__icon">
             <a href="/cart" className="nav__link">
