@@ -3,7 +3,7 @@ import React from "react";
 const Highlight = ({ icon, title, para }) => {
   return (
     <div className="highlight">
-      <div class="highlight__img">
+      <div className="highlight__img">
         {icon}
       </div>
       <h3 className="highlight__subtitle">{title}</h3>
