@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { books } from "../data";
 import Book from "../components/Book";
 
 const Books = ({ books: initalBooks }) => {
